@@ -1,4 +1,4 @@
-# 
+# 新 Semantic Code Search 插件。集成 可定制UI 和 多模态支持，性能和效率最大化。
 
 
 
